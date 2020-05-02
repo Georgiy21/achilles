@@ -1,0 +1,3 @@
+Vulnerabilities Report is as follows:
+=====================================
+Form Issue: Insecure form action /searchfound in document
